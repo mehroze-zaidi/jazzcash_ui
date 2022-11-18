@@ -1,6 +1,7 @@
 # jazzcash_ui
 
-A new Flutter project.
+This is a JazzCash UI clone ( Modern Wallet App in Pakistan), implementing modern app bar animmation.
+One can take a concept of making app bar with animation.
 
 ## Getting Started
 
